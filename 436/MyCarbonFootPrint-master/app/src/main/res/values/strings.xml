@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">FootPrint</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">FootPrint</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_summary">Summary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="CAL">Calculate</string>
+    <string name="edit_message">Enter a number</string>
+    <string name="title_activity_input">InputActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="state_prompt">Choose a State</string>
+
+    <string-array name="state_arrays">
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string name="title_activity_detail_res">detail_res</string>
+    <string name="title_activity_page_res">Page_res</string>
+    <string name="daily_activities">Daily Activities</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_tips_page">tips_page</string>
+    <string name="settings_page">settings_page</string>
+    <string name="title_activity_database_page">Database_page</string>
+    <string name="title_activity_settings_page">Settings_page</string>
+
+</resources>

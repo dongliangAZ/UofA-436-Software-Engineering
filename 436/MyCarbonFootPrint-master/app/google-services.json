@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "326758225919",
+    "firebase_url": "https://footprint-66ca6.firebaseio.com",
+    "project_id": "footprint-66ca6",
+    "storage_bucket": "footprint-66ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326758225919:android:b348ba248ec78470",
+        "android_client_info": {
+          "package_name": "maksach.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326758225919-q2mvjg4c4pvt00d7p0eq3jpmvn98nnmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maksach.myapplication",
+            "certificate_hash": "ed990f01ec4664632c255a7c40160048ab5f1651"
+          }
+        },
+        {
+          "client_id": "326758225919-oqfhlqgn7arpvv4e4h1p2jrbgvhsdkuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNYWlmquO0mFWcfBD62Ipmttl4ILW6Kw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326758225919-oqfhlqgn7arpvv4e4h1p2jrbgvhsdkuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
